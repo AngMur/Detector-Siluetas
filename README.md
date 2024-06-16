@@ -1,7 +1,7 @@
 # detector-bordes
 
-![image](pruebas-imagenes/01.JPG)
+![image1](pruebas-imagenes/01.jpg)
 
-![image](pruebas-imagenes/02.JPG)
+![image2](pruebas-imagenes/02.jpg)
 
-![image](pruebas-imagenes/03.JPG)
+![image3](pruebas-imagenes/03.jpg)
