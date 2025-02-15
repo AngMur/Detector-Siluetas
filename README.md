@@ -1,4 +1,4 @@
-# detector-bordes
+# detector-siluetas
 
 ![image1](pruebas-imagenes/01.jpg)
 
